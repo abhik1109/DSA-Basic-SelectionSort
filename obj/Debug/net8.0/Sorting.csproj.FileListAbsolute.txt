@@ -1,0 +1,14 @@
+E:\DotNet\Basics\Sorting\bin\Debug\net8.0\Sorting.exe
+E:\DotNet\Basics\Sorting\bin\Debug\net8.0\Sorting.deps.json
+E:\DotNet\Basics\Sorting\bin\Debug\net8.0\Sorting.runtimeconfig.json
+E:\DotNet\Basics\Sorting\bin\Debug\net8.0\Sorting.dll
+E:\DotNet\Basics\Sorting\bin\Debug\net8.0\Sorting.pdb
+E:\DotNet\Basics\Sorting\obj\Debug\net8.0\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Basics\Sorting\obj\Debug\net8.0\Sorting.AssemblyInfoInputs.cache
+E:\DotNet\Basics\Sorting\obj\Debug\net8.0\Sorting.AssemblyInfo.cs
+E:\DotNet\Basics\Sorting\obj\Debug\net8.0\Sorting.csproj.CoreCompileInputs.cache
+E:\DotNet\Basics\Sorting\obj\Debug\net8.0\Sorting.dll
+E:\DotNet\Basics\Sorting\obj\Debug\net8.0\refint\Sorting.dll
+E:\DotNet\Basics\Sorting\obj\Debug\net8.0\Sorting.pdb
+E:\DotNet\Basics\Sorting\obj\Debug\net8.0\Sorting.genruntimeconfig.cache
+E:\DotNet\Basics\Sorting\obj\Debug\net8.0\ref\Sorting.dll
